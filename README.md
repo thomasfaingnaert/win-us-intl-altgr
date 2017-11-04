@@ -10,7 +10,7 @@ If you want to type `'`, you just press `'`.
 If you want to use `'` as a dead key, you use AltGr (right alt): e.g. `AltGr+' a` will produce `á`.
 
 This repo is a modified version of the default Windows "United States (International)" keyboard layout that mimics the behaviour found in Linux.
-All five dead keys (```, `~`, `^`, `'` and `"`) are now only dead when AltGr is pressed, otherwise they function as normal keys.
+All five dead keys (`` ` ``, `~`, `^`, `'` and `"`) are now only dead when AltGr is pressed, otherwise they function as normal keys.
 Note that the original layout already defines several AltGr combinations, e.g. `AltGr+'` becomes `´`.
 If you want to type these characters in the modified layout, you should follow the old keycombination with a space: e.g. `AltGr+' <SPACE>` will produce `´`.
 
