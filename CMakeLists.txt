@@ -10,6 +10,7 @@ set(OUTPUT_FILENAME "kbd-us-intl-altgr.dll" CACHE STRING "The name of the output
 
 string(TIMESTAMP CURRENT_YEAR "%Y")
 
+configure_file("resources/kli.ini.in" "kli.ini")
 configure_file("resources/layout.rc.in" "layout.rc")
 
 add_library(us-intl-altgr MODULE
