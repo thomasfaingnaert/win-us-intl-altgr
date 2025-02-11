@@ -19,3 +19,7 @@ You can download the latest installer from the releases tab of this repo (https:
 
 If you prefer to build from source, you can open the .KLC source file in Microsoft Keyboard Layout Creator.
 After opening the file, choose Project > Build DLL and Setup Package in the menu to create an installer.
+
+## Related
+
+There's now a revised version [altgr-weur.eu](https://altgr-weur.eu/windows.html) of the AltGr-International layout.
