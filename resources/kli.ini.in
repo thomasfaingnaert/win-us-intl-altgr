@@ -1,0 +1,8 @@
+[install]
+language_id = 0x0409
+product_code = {B45A9739-7C8A-4165-B1D2-F2A46F3ADE1D}
+
+[layout]
+file = @OUTPUT_FILENAME@
+text = United States (International) - Alt Gr dead keys
+display_name = United States (International) - Alt Gr dead keys
